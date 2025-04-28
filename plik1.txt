@@ -5,3 +5,4 @@ dziewiec
 dziesiec
 jedenascie
 trzynascie
+pietnascie
