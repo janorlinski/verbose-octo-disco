@@ -6,3 +6,4 @@ dziesiec
 jedenascie
 trzynascie
 pietnascie
+szesnascie
