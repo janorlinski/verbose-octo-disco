@@ -7,3 +7,4 @@ jedenascie
 trzynascie
 czternascie
 pietnascie
+szesnascie
